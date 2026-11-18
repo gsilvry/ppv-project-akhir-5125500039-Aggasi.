@@ -1,0 +1,28 @@
+
+{
+  "project_name": "LATIHAN DEBUG - BUAT P10",
+  "version": "1.0.0",
+  "description": "Proyek hasil debugging untuk P10",
+  "type": "website",
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+    
+  ],
+  "files": [
+    "index.html",
+    "main.js",
+    "style.css",
+    "DEBUG_LOG.md",
+    "manifest.json"
+  ],
+  "debugging": {
+    "total_bugs": 3,
+    "bug_ids": [
+      "P1",
+      "P2",
+      "P3"
+    ]
+  }
+}
